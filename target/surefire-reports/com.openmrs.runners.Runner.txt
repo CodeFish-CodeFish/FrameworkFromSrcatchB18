@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.openmrs.runners.Runner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 28.867 s <<< FAILURE! - in com.openmrs.runners.Runner
+login functionality.validate the successful login process for open mrs  Time elapsed: 10.85 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...pplication/home.page[]> but was:<...pplication/home.page[;jsessionid=339861F1AF85655081B08F8098EF04D0]>
+
